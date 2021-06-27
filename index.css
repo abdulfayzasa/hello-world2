@@ -9,4 +9,9 @@
     font-size: 32px;
     color:white;
 }
+.img{
+    display:block;
+    width:100%;
+    height:auto;
+}
 
