@@ -9,4 +9,12 @@
     font-size: 32px;
     color:white;
 }
-
+.container{
+    text-align:center;
+    padding:20px;
+}
+.container img{
+    display:block;
+    width:100%;
+    height:auto;
+}
