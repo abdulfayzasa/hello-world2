@@ -6,3 +6,4 @@ Mening ismim Abdulfayz Solijonov o'zim Fargonada tugilganman hozirda Amerikada i
 bu readme page hisoblanadi
 men yangi hisobot qoshidim
 men 2-yangi page qo'shdim
+men update-readme da yangi qator qoshdim
